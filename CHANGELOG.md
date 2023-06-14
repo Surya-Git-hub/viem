@@ -1,5 +1,11 @@
 # viem
 
+## 1.0.8
+
+### Patch Changes
+
+- [#709](https://github.com/wagmi-dev/viem/pull/709) [`043b2cba`](https://github.com/wagmi-dev/viem/commit/043b2cbaf8877ae67cf163d2ea19df9f08eb3808) Thanks [@jxom](https://github.com/jxom)! - Refactored serializable/serialized transaction types.
+
 ## 1.0.7
 
 ### Patch Changes
